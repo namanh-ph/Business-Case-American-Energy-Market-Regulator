@@ -1,4 +1,4 @@
-# American Energy Market Regulator
+# Business Case: American Energy Market Regulator
 
 For my visualisation and data story, please also check out my [Tableau Public Viz](https://public.tableau.com/app/profile/nam.anh.pham3727/viz/AmericanEnergyMarketRegulator_16767868381910/AmericanEnergyMarketRegulator_1).
 
